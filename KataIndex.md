@@ -1,0 +1,28 @@
+# Katas
+
+1. [Training JS #1: create your first JS function and print "Helloworld!"](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8) This particular kata is the first of a series of beginner katas. The others in the series are linked in the description
+1. [Find numbers which are divisible by given number](https://www.codewars.com/kata/55edaba99da3a9c84000003b)
+1. [Rock Paper Scissors!](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
+1. [Stringy Strings](https://www.codewars.com/kata/563b74ddd19a3ad462000054)
+1. [Number of People in the Bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
+1. [Get the mean of an array](https://www.codewars.com/kata/563e320cee5dddcf77000158)
+1. [How many are smaller than me?](https://www.codewars.com/kata/56a1c074f87bc2201200002e)
+1. [Enumerable Magic #1 - True for All?](https://www.codewars.com/kata/54598d1fcbae2ae05200112c/javascript)
+1. [Prefill an Array](https://www.codewars.com/kata/54129112fb7c188740000162)
+1. [Generate range of integers](https://www.codewars.com/kata/55eca815d0d20962e1000106)
+1. [A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
+1. [Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083/javascript)
+1. [Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e)
+1. [Between Extremes](https://www.codewars.com/kata/56d19b2ac05aed1a20000430)
+1. [Spoonerize Me](https://www.codewars.com/kata/56b8903933dbe5831e000c76)
+1. [Find Count of Most Frequent Item in an Array](https://www.codewars.com/kata/56582133c932d8239900002e)
+1. [Sexy Primes <3](https://www.codewars.com/kata/56b58d11e3a3a7cade000792)
+1. [Basic method](https://www.codewars.com/kata/55da49c166949c319200003e)
+1. [Be Concise III - Sum Squares](https://www.codewars.com/kata/56f8fe6a2e6c0dc83b0008a7)
+1. [Decoding a message](https://www.codewars.com/kata/565b9d6f8139573819000056)
+1. [DNA GC-content](https://www.codewars.com/kata/5747a9bbe2fab9a0c400012f)
+1. [Recursive Replication](https://www.codewars.com/kata/57547f9182655569ab0008c4)
+1. [Xmas Tree](https://www.codewars.com/kata/577c349edf78c178a1000108)
+1. [Test Your Knowledge Of Function Scope
+](https://www.codewars.com/kata/56d344c7fd3a52566700124b)
+1. [Make acronym](https://www.codewars.com/kata/57a60bad72292d3e93000a5a)
