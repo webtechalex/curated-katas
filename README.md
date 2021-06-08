@@ -1,5 +1,7 @@
 A curated list of Codewars katas for beginners.
 
+This might be stating the obvious, but make sure you have created a Codewars account and are logged in to Codewars before clicking on the links to the katas!
+
 These katas should mostly be within reach of people who have been learning the basics of javascript as their first programming language, (most, if not all, can be completed in other languages as well.) There are a few wildcards in there which will be more difficult.
 
 I encourage you not to peek at the answers. If you get stuck, move on to the next kata. The answer will come to you in time, the more you immerse yourself in learning the skills needed to be a great programmer.
