@@ -26,3 +26,8 @@
 1. [Test Your Knowledge Of Function Scope
 ](https://www.codewars.com/kata/56d344c7fd3a52566700124b)
 1. [Make acronym](https://www.codewars.com/kata/57a60bad72292d3e93000a5a)
+1. [Hells Kitchen](https://www.codewars.com/kata/57d1f36705c186d018000813)
+1. [The dropWhile Function](https://www.codewars.com/kata/54f9c37106098647f400080a/javascript)
+1. [Duck Shoot - Easy Version](https://www.codewars.com/kata/57d27a0a26427672b900046f/javascript)
+1. [Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe](https://www.codewars.com/kata/582746fa14b3892727000c4f) This one is the first in another series you might want to explore
+1. [Reverse Factorials](https://www.codewars.com/kata/58067088c27998b119000451/javascript)
