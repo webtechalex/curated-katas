@@ -6,6 +6,8 @@ These katas should mostly be within reach of people who have been learning the b
 
 I encourage you not to peek at the answers. If you get stuck, move on to the next kata. The answer will come to you in time, the more you immerse yourself in learning the skills needed to be a great programmer.
 
-If you get to the end of the list just keep exploring Codewars. You can click the "Kata" button in the toolbar and browse other challenges. Also, keep an eye on this list for new katas. I have completed close to 1000 Codewars katas so I will try to keep adding to the list the ones I think are helpful for beginners. 
+If you get to the end of the list just keep exploring Codewars. You can click the "Kata" button in the toolbar and browse other challenges. Also, keep an eye on this list for new katas. I have completed close to 1000 Codewars katas so I will try to keep adding to the list the ones I think are helpful for beginners.
+
+Also, try not to rush through the list of katas. When you complete a kata, before looking at others' solutions, spend some time trying to see if there are other ways you could think about solving the problem. Try them out. Do they work? Then spend some time going through others' solutions. See if you can understand them. See if you can google what you don't understand. The more you understand from solving one kata the more tools you will have for solving others.
 
 Don't give up!
