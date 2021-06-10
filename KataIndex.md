@@ -31,3 +31,13 @@
 1. [Duck Shoot - Easy Version](https://www.codewars.com/kata/57d27a0a26427672b900046f/javascript)
 1. [Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe](https://www.codewars.com/kata/582746fa14b3892727000c4f) This one is the first in another series you might want to explore
 1. [Reverse Factorials](https://www.codewars.com/kata/58067088c27998b119000451/javascript)
+1. [Is every value in the array an array?](https://www.codewars.com/kata/582c81d982a0a65424000201)
+1. [Spacify](https://www.codewars.com/kata/57f8ee485cae443c4d000127)
+1. [Naughty or Nice?](https://www.codewars.com/kata/585eaef9851516fcae00004d)
+1. [Merge two arrays](https://www.codewars.com/kata/583af10620dda4da270000c5)
+1. [Currying functions: multiply all elements in an array](https://www.codewars.com/kata/586909e4c66d18dd1800009b)
+1. [String transformer](https://www.codewars.com/kata/5878520d52628a092f0002d0)
+1. [Reversing Words in a String](https://www.codewars.com/kata/57a55c8b72292d057b000594)
+1. [Sum of a sequence](https://www.codewars.com/kata/586f6741c66d18c22800010a)
+1. [Grains](https://www.codewars.com/kata/55f7eb009e6614447b000099)
+1. [Thinkful - List Drills: Longest word](https://www.codewars.com/kata/58670300f04e7449290000e5)
