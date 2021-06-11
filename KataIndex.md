@@ -41,3 +41,13 @@
 1. [Sum of a sequence](https://www.codewars.com/kata/586f6741c66d18c22800010a)
 1. [Grains](https://www.codewars.com/kata/55f7eb009e6614447b000099)
 1. [Thinkful - List Drills: Longest word](https://www.codewars.com/kata/58670300f04e7449290000e5)
+1. [max diff - easy](https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095)
+1. [Make a square box!](https://www.codewars.com/kata/58644e8ddf95f81a38001d8d)
+1. [The Office II - Boredom Score](https://www.codewars.com/kata/57ed4cef7b45ef8774000014)
+1. [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
+1. [The Office IV - Find a Meeting Room](https://www.codewars.com/kata/57f604a21bd4fe771b00009c)
+1. [Most digits](https://www.codewars.com/kata/58daa7617332e59593000006)
+1. [Adding words - Part I](https://www.codewars.com/kata/592eaf848c91f248ca000012)
+1. [Duck Duck Goose](https://www.codewars.com/kata/582e0e592029ea10530009ce)
+1. [How many animals are there?](https://www.codewars.com/kata/593406b8f3d071d83c00005d)
+1. [8kyu interpreters: HQ9+](https://www.codewars.com/kata/591588d49f4056e13f000001) Not your usual 8kyu kata. For this one you will have to think about breaking the problem down a lot. Solve one piece at a time!
