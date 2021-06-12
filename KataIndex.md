@@ -51,3 +51,5 @@
 1. [Duck Duck Goose](https://www.codewars.com/kata/582e0e592029ea10530009ce)
 1. [How many animals are there?](https://www.codewars.com/kata/593406b8f3d071d83c00005d)
 1. [8kyu interpreters: HQ9+](https://www.codewars.com/kata/591588d49f4056e13f000001) Not your usual 8kyu kata. For this one you will have to think about breaking the problem down a lot. Solve one piece at a time!
+1. [Friday the 13th Part 1](https://www.codewars.com/kata/5925acf31a9825d616000e74)
+1. [isEven? - Bitwise Series](https://www.codewars.com/kata/592a33e549fe9840a8000ba1) Bitwise operators, just for fun!
