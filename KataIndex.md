@@ -53,3 +53,11 @@
 1. [8kyu interpreters: HQ9+](https://www.codewars.com/kata/591588d49f4056e13f000001) Not your usual 8kyu kata. For this one you will have to think about breaking the problem down a lot. Solve one piece at a time!
 1. [Friday the 13th Part 1](https://www.codewars.com/kata/5925acf31a9825d616000e74)
 1. [isEven? - Bitwise Series](https://www.codewars.com/kata/592a33e549fe9840a8000ba1) Bitwise operators, just for fun!
+1. [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)
+1. [Digital cypher](https://www.codewars.com/kata/592e830e043b99888600002d)
+1. [Bubblesort Once](https://www.codewars.com/kata/56b97b776ffcea598a0006f2)
+1. [Number Zoo Patrol](https://www.codewars.com/kata/5276c18121e20900c0000235)
+1. [English beggars](https://www.codewars.com/kata/59590976838112bfea0000fa)
+1. [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
+1. [Contamination #1 -String-](https://www.codewars.com/kata/596fba44963025c878000039)
+1. [Only one](https://www.codewars.com/kata/5734c38da41454b7f700106e)
