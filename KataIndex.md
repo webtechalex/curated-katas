@@ -61,3 +61,13 @@
 1. [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
 1. [Contamination #1 -String-](https://www.codewars.com/kata/596fba44963025c878000039)
 1. [Only one](https://www.codewars.com/kata/5734c38da41454b7f700106e)
+1. [Classy Classes](https://www.codewars.com/kata/55a144eff5124e546400005a)
+1. [Factorial Factory](https://www.codewars.com/kata/528e95af53dcdb40b5000171/javascript)
+1. [Closest to Zero](https://www.codewars.com/kata/59887207635904314100007b)
+1. [esreveR](https://www.codewars.com/kata/5413759479ba273f8100003d)
+1. [Implement Array.prototype.filter()](https://www.codewars.com/kata/56dd9b84fe5754786f0014f7) Do you think you understand what filter does? Do you know how to extend an object's prototype? Have a go at this kata
+1. [Sum Times Tables](https://www.codewars.com/kata/551e51155ed5ab41450006e1)
+1. [Recursive Ninja](https://www.codewars.com/kata/583ed487ee36e2a8d20000e8) Ancient programming proverb: _"To understand recursion, you must first... understand recursion"_
+1. [By 3, or not by 3? That is the question . . .](https://www.codewars.com/kata/59f7fc109f0e86d705000043)
+1. [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)
+1. [All unique](https://www.codewars.com/kata/553e8b195b853c6db4000048)
