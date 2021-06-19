@@ -1,6 +1,7 @@
 # Katas
 
 1. [Training JS #1: create your first JS function and print "Helloworld!"](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8) This particular kata is the first of a series of beginner katas. The others in the series are linked in the description
+1. [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4) slotted this one in here as it's a very easy one
 1. [Find numbers which are divisible by given number](https://www.codewars.com/kata/55edaba99da3a9c84000003b)
 1. [Rock Paper Scissors!](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
 1. [Stringy Strings](https://www.codewars.com/kata/563b74ddd19a3ad462000054)
@@ -71,3 +72,12 @@
 1. [By 3, or not by 3? That is the question . . .](https://www.codewars.com/kata/59f7fc109f0e86d705000043)
 1. [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)
 1. [All unique](https://www.codewars.com/kata/553e8b195b853c6db4000048)
+1. [Even numbers in an array](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c)
+1. [Possiblities Array](https://www.codewars.com/kata/59b710ed70a3b7dd8f000027)
+1. [Man in the west](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b)
+1. [Matrix creation](https://www.codewars.com/kata/5a34da5dee1aae516d00004a)
+1. [Custom Christmas Tree](https://www.codewars.com/kata/5a405ba4e1ce0e1d7800012e) a tougher version of the above "Xmas Tree" kata
+1. [Remove B M W](https://www.codewars.com/kata/59de795c289ef9197f000c48)
+1. [Alphabet symmetry](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0)
+1. [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+1. [Are the numbers in order?](https://www.codewars.com/kata/56b7f2f3f18876033f000307)
