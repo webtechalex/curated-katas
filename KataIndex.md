@@ -1,6 +1,5 @@
 # Katas
 
-1. [Training JS #1: create your first JS function and print "Helloworld!"](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8) This particular kata is the first of a series of beginner katas. The others in the series are linked in the description
 1. [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4) slotted this one in here as it's a very easy one
 1. [Find numbers which are divisible by given number](https://www.codewars.com/kata/55edaba99da3a9c84000003b)
 1. [Rock Paper Scissors!](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
