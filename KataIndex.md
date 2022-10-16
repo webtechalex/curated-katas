@@ -145,3 +145,4 @@
 142. [Elimination Tournament](https://www.codewars.com/kata/5f631ed489e0e101a70c70a0)
 143. [Streaky Patterns in Coin Flips](https://www.codewars.com/kata/5c1ac4f002c59c725900003f)
 144. [Gravity Flip](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)
+145. [Filter Coffee](https://www.codewars.com/kata/56069d0c4af7f633910000d3/solutions)
